@@ -16,10 +16,11 @@
 <!-- Social Links & Stats -->
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donatus-dziedzorm-d-64842941/)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:getdzidon@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Getdzidon)
-  [![Credly](https://img.shields.io/badge/Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/donatus-dziedzorm-dzissah)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donatus-dziedzorm-d-64842941/) &nbsp;&nbsp;
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:getdzidon@gmail.com) &nbsp;&nbsp;
+  [![CV](https://img.shields.io/badge/CV-Resume-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://flowcv.me/donatus-dziedzorm-dzissah) &nbsp;&nbsp;
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Getdzidon) &nbsp;&nbsp;
+  [![Credly](https://img.shields.io/badge/Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/donatus-dziedzorm-dzissah) &nbsp;&nbsp;
   ![Profile Views](https://komarev.com/ghpvc/?username=getdzidon&color=2e86ab&style=for-the-badge)
   
 </div>
