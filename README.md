@@ -317,7 +317,7 @@ open_to: Remote work | Relocation | Exciting challenges
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Getdzidon&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Getdzidon&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%"/>
 
 <br/><br/>
 
