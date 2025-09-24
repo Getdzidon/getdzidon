@@ -304,12 +304,12 @@ open_to: Remote work | Relocation | Exciting challenges
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Getdzidon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" width="100%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Getdzidon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" width="100%"/>
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Getdzidon&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=c,makefile,dockerfile" alt="Top Languages" width="100%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Getdzidon&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=c,makefile,dockerfile" alt="Top Languages" width="100%"/>
 
 </td>
 </tr>
@@ -317,11 +317,11 @@ open_to: Remote work | Relocation | Exciting challenges
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Getdzidon&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=Getdzidon&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="60%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Getdzidon&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="85%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Getdzidon&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="Contribution Graph" width="85%"/>
 
 </div>
 
