@@ -7,7 +7,7 @@
 <!-- Animated Typing -->
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=🔧+Infrastructure+Engineering+%26+Automation;⚡+Kubernetes+%7C+Docker+%7C+Terraform+Expert;🚀+CI%2FCD+Pipeline+Architecture;☁️+AWS+Cloud+Solutions+%26+Optimization;🎯+DevSecOps+%26+Best+Practices)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=🔧+Infrastructure+Engineering+%26+Automation;⚡+Terraform+%7CDocker+%7CCI-CD+%7CKubernetes;🚀+CI%2FCD+Pipeline+Architecture;☁️+AWS+Cloud+Solutions+%26+Optimization;🎯+DevSecOps+%26+Best+Practices)](https://git.io/typing-svg)
 
 </div>
 
@@ -216,7 +216,7 @@ open_to: Remote work | Relocation | Exciting challenges
 
 **🛡️ SOC2 Compliant E-commerce Deployment**
 
-- Node.js application with security-first approach
+- Node.js application with a security-first approach
 - Automated security scanning in CI/CD pipeline
 - Compliance validation & enforcement  
 - Security gates before deployment
