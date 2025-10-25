@@ -50,7 +50,7 @@ core_expertise:
   infrastructure:
     - AWS Cloud Services (VPC, EC2, S3, ECS, EKS, Lambda, Route53, ALB/NLB etc)
     - Kubernetes cluster management & optimization
-    - IaC with Terraform and Ansible
+    - IaC with Terraform and Ansiblem 
     - Docker containerization
     
   automation:
@@ -167,7 +167,7 @@ open_to: Remote work | Relocation | Exciting challenges
 ![Snyk](https://img.shields.io/badge/Snyk-%234C4A73?style=for-the-badge&logo=snyk&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-%231904DA?style=for-the-badge&logo=trivy&logoColor=white)
 
-### 💻 Programming & Scripting
+### 💻 Programming, Scripting and other tools
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-%23CB171E?style=for-the-badge&logo=yaml&logoColor=white)
