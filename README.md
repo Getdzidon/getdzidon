@@ -7,7 +7,7 @@
 <!-- Animated Typing -->
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=🔧+Infrastructure+Engineering+%26+Automation;⚡+Terraform+%7CDocker+%7CCI-CD+%7CKubernetes;🚀+CI%2FCD+Pipeline+Architecture;☁️+AWS+Cloud+Solutions+%26+Optimization;🎯+DevSecOps+%26+Best+Practices)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=🔧+Infrastructure+Engineering+%26+Automation;⚡+Terraform+%7CDocker+%7CCI-CD+%7CKubernetes;🚀+CI%2FCD+Pipeline;☁️+AWS+Cloud+Solutions+%26+Optimization;🎯+DevSecOps+%26+Best+Practices)](https://git.io/typing-svg)
 
 </div>
 
@@ -34,9 +34,9 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
 ```yaml
-Name: Donatus Dzissah
-Role: Systems Engineer | DevOps Specialist | Cloud Infrastructure Expert
-Location: Prague, Czech Republic 🇨🇿
+Name: Dzissah, Donatus Dziedzorm
+Role: Systems Engineer | DevOps Engineer | Cloud Infrastructure Engineer
+Location: Czech Republic 🇨🇿
 
 
 current_focus:
@@ -48,10 +48,10 @@ current_focus:
 
 core_expertise:
   infrastructure:
-    - AWS Cloud Services (VPC, EC2, S3, Route53, ALB/NLB)
+    - AWS Cloud Services (VPC, EC2, S3, ECS, EKS, Lambda, Route53, ALB/NLB etc)
     - Kubernetes cluster management & optimization
-    - Terraform for IaC implementation
-    - Docker containerization strategies
+    - IaC with Terraform and Ansible
+    - Docker containerization
     
   automation:
     - CI/CD pipeline design & implementation
@@ -69,7 +69,7 @@ key_achievements:
   - 🚀 Reduced infrastructure costs by 20% through Kubernetes adoption
   - ⚡ Optimized CI/CD pipelines achieving 20% faster build times
   - 🔧 Implemented IaC for 3+ development teams
-  - 🛡️  Enhanced security with VPC peering solutions
+  - 🛡️ Enhanced security with VPC peering solutions
   - 📈 Improved system availability through proactive monitoring
 
 passionate_about:
