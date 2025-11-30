@@ -258,7 +258,7 @@ open_to: Remote work | Relocation | Exciting challenges
 <tr>
 <td align="center" width="50%">
 
-**🎮 Super Mario on AWS EKS**
+**🎮 Lengendary Super Mario Game deployed to AWS EKS**
 
 - Complete EKS deployment with Terraform IaC
 - Automated CI/CD with GitHub Actions
@@ -274,7 +274,7 @@ open_to: Remote work | Relocation | Exciting challenges
 
 **⛪ Church Management System**
 
-- Full-stack Django application with CI/CD
+- Full-stack Django application deployed with CI/CD using Github Actions
 - Security-first approach with automated scanning
 - Zero-downtime deployment to Hetzner Cloud
 - Comprehensive member & financial management
