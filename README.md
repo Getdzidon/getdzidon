@@ -1,13 +1,13 @@
 
 <!-- Animated Wave Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Donatus%20Dzissah&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Systems%20Engineer%20%7C%20DevOps%20Specialist%20%7C%20Cloud%20Infrastructure&descAlignY=55&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Donatus%20D.%20Dzissah&fontSize=90&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Systems%20Engineer%20%7C%20DevOps%20Specialist%20%7C%20Cloud%20Infrastructure&descAlignY=55&descSize=20" width="100%" />
 </div>
 
 <!-- Animated Typing -->
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=🔧+Infrastructure+Engineering+%26+Automation;⚡+Kubernetes+%7C+Docker+%7C+Terraform+Expert;🚀+CI%2FCD+Pipeline+Architecture;☁️+AWS+Cloud+Solutions+%26+Optimization;🎯+DevSecOps+%26+Best+Practices)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=🔧+Infrastructure+Engineering+%26+Automation;⚡+Terraform+%7CDocker+%7CCI-CD+%7CKubernetes;🚀+CI%2FCD+Pipeline;☁️+AWS+Cloud+Solutions+%26+Optimization;🎯+DevSecOps+%26+Best+Practices)](https://git.io/typing-svg)
 
 </div>
 
@@ -34,9 +34,9 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
 ```yaml
-Name: Donatus Dzissah
-Role: Systems Engineer | DevOps Specialist | Cloud Infrastructure Expert
-Location: Prague, Czech Republic 🇨🇿
+Name: Dzissah, Donatus Dziedzorm
+Role: Systems Engineer | DevOps Engineer | Cloud Infrastructure Engineer
+Location: Czech Republic 🇨🇿
 
 
 current_focus:
@@ -48,10 +48,10 @@ current_focus:
 
 core_expertise:
   infrastructure:
-    - AWS Cloud Services (VPC, EC2, S3, Route53, ALB/NLB)
+    - AWS Cloud Services (VPC, EC2, S3, ECS, EKS, Lambda, Route53, ALB/NLB etc)
     - Kubernetes cluster management & optimization
-    - Terraform for IaC implementation
-    - Docker containerization strategies
+    - IaC with Terraform and Ansiblem 
+    - Docker containerization
     
   automation:
     - CI/CD pipeline design & implementation
@@ -69,7 +69,7 @@ key_achievements:
   - 🚀 Reduced infrastructure costs by 20% through Kubernetes adoption
   - ⚡ Optimized CI/CD pipelines achieving 20% faster build times
   - 🔧 Implemented IaC for 3+ development teams
-  - 🛡️  Enhanced security with VPC peering solutions
+  - 🛡️ Enhanced security with VPC peering solutions
   - 📈 Improved system availability through proactive monitoring
 
 passionate_about:
@@ -167,7 +167,7 @@ open_to: Remote work | Relocation | Exciting challenges
 ![Snyk](https://img.shields.io/badge/Snyk-%234C4A73?style=for-the-badge&logo=snyk&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-%231904DA?style=for-the-badge&logo=trivy&logoColor=white)
 
-### 💻 Programming & Scripting
+### 💻 Programming, Scripting and other tools
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![YAML](https://img.shields.io/badge/YAML-%23CB171E?style=for-the-badge&logo=yaml&logoColor=white)
@@ -216,7 +216,7 @@ open_to: Remote work | Relocation | Exciting challenges
 
 **🛡️ SOC2 Compliant E-commerce Deployment**
 
-- Node.js application with security-first approach
+- Node.js application with a security-first approach
 - Automated security scanning in CI/CD pipeline
 - Compliance validation & enforcement  
 - Security gates before deployment
