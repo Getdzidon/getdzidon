@@ -258,6 +258,36 @@ open_to: Remote work | Relocation | Exciting challenges
 <tr>
 <td align="center" width="50%">
 
+**🎮 Super Mario on AWS EKS**
+
+- Complete EKS deployment with Terraform IaC
+- Automated CI/CD with GitHub Actions
+- Zero-downtime deployment strategy
+- Reusable template for any Docker application
+
+**Tech Stack:** `Terraform` `Kubernetes` `AWS EKS` `GitHub Actions`
+
+[![GitHub](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Getdzidon/deploy-SuperMario-on-K8s-with-terraform)
+
+</td>
+<td align="center" width="50%">
+
+**⛪ Church Management System**
+
+- Full-stack Django application with CI/CD
+- Security-first approach with automated scanning
+- Zero-downtime deployment to Hetzner Cloud
+- Comprehensive member & financial management
+
+**Tech Stack:** `Django` `PostgreSQL` `Docker` `Trivy` `SonarQube`
+
+[![GitHub](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/techbridgegh/vcc-app)
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
 **🔐 Enterprise SSO Implementation**
 
 - SAML & OIDC-based authentication
